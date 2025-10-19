@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/YachayVision">
+    <file alias="qmldir">D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/YachayVision/qmldir</file>
+  </qresource>
+</RCC>
+

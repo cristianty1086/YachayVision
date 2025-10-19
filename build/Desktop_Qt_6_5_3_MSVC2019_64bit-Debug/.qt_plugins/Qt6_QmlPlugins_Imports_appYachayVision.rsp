@@ -1,0 +1,14 @@
+-rootPath
+D:/diskE/ProyectoQT/YachayVision
+-cmake-output
+-output-file
+D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appYachayVision.cmake
+-importPath
+D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/YachayVision
+-importPath
+D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug
+-importPath
+D:/Qt/6.5.3/msvc2019_64/./qml
+-qrcFiles
+D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/.rcc/qmake_YachayVision.qrc
+D:/diskE/ProyectoQT/YachayVision/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/.rcc/appYachayVision_raw_qml_0.qrc

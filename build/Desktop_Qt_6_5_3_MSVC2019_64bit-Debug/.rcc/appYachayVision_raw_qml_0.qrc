@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/YachayVision/">
+    <file alias="Main.qml">D:/diskE/ProyectoQT/YachayVision/Main.qml</file>
+  </qresource>
+</RCC>
+
