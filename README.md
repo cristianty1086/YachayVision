@@ -30,21 +30,21 @@ YachayVision es una aplicación desarrollada en Qt que implementa funcionalidade
    vcpkg install opencv
 
 
-##Compilación
-Clonar el repositorio:
+## Compilación
 
 ### Clonar el repositorio:
-```bash
 git clone https://github.com/tuusuario/yachayvision.git
-cd yachayvision```
+cd yachayvision
 
 ```bash
 qmake yachayvision.pro
-make```
+make
+```
 Ejecutar la aplicación:
 
 ```bash
-./yachayvision```
+./yachayvision
+```
 
 ## Uso
 
@@ -86,7 +86,8 @@ yachayvision/
 ### Compilación para Desarrollo
 ```bash
 qmake CONFIG+=debug yachayvision.pro
-make debug```
+make debug
+```
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
