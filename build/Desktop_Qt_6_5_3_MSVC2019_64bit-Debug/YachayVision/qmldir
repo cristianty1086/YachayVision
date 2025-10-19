@@ -1,5 +1,0 @@
-module YachayVision
-typeinfo appYachayVision.qmltypes
-prefer :/YachayVision/
-Main 1.0 Main.qml
-
